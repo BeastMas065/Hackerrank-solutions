@@ -8,13 +8,13 @@ A collection of my HackerRank solutions, organized by topic and programming doma
 hackerrank-solutions/
 │
 ├── Python/
-│   ├── problem_1.py
-│   ├── problem_2.py
+│   ├── Introduction/
+│   ├── Modules/
 │   └── ...
 │
 ├── Regex/
-│   ├── problem_1.py
-│   ├── problem_2.py
+│   ├── Introduction/
+│   ├── Modules/
 │   └── ...
 │
 ├── Algorithms/      # Ongoing
